@@ -1,5 +1,5 @@
 👋 Hi, I'm Md. Kamrul Hasan Joy
-<img src="https://i.ibb.co.com/dsCvx9gK/kamrul.jpg/Linked-In-Banner.png" alt="Md. Kamrul Hasan Joy Banner" width="100%" />
+<img src="https://i.ibb.co.com/dsCvx9gK/kamrul.jpg/Linked-In-Banner.png" alt="Md. Kamrul Hasan Joy Banner" width="100%" height="400px" />
 🚀 About Me
 
 I'm a Frontend Web Developer passionate about crafting responsive, interactive, and user-friendly web applications.
