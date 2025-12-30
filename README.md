@@ -21,9 +21,9 @@ A platform that connects food donors with charities to reduce food waste. Featur
 
 🔗 https://kamrul.webxmastery.com/
 
-A community-driven platform that connects donors and restaurants with charities to reduce food waste.
+This is an e-commerce website.
 
-🔗 [Knowledge Sharing Platform](https://eduhive-auth-87275.web.app)
+🔗 https://dev-barirbajar.pantheonsite.io/
 
 A collaborative learning platform where users can share educational articles and resources.
 
