@@ -2,9 +2,9 @@
 
 🚀 About Me
 
-I'm a Frontend Web Developer passionate about crafting responsive, interactive, and user-friendly web applications.
-I specialize in React.js, JavaScript (ES6+), and modern web technologies.
-I love solving problems, exploring new tools, and turning creative ideas into impactful digital solutions.
+I am a professional WordPress Developer and Elementor Expert with strong experience in designing and customizing modern, responsive, and user-friendly websites. I specialize in Elementor-based design, WooCommerce eCommerce solutions, and LMS websites.
+
+I have excellent skills in HTML and CSS, along with basic JavaScript knowledge, which helps me build clean layouts, interactive UI, and optimized performance. I always focus on clean design, speed, SEO, and client satisfaction.
 
 🛠️ Technical Skills
 
