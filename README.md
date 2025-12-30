@@ -1,5 +1,5 @@
 👋 Hi, I'm Md. Kamrul Hasan Joy
-<a href="https://ibb.co.com/yBM5GCHP"><img src="https://i.ibb.co.com/CsXvNyR8/Blue-white-minimal-linkedin-profile-cover-image.png" width="100%" height="320px" /> </a>
+<a href="https://ibb.co.com/yBM5GCHP"><img src="https://i.ibb.co.com/CsXvNyR8/Blue-white-minimal-linkedin-profile-cover-image.png" width="100%" height="400px" /> </a>
 🚀 About Me
 
 I am a professional WordPress Developer and Elementor Expert with strong experience in designing and customizing modern, responsive, and user-friendly websites. I specialize in Elementor-based design, WooCommerce eCommerce solutions, and LMS websites.
