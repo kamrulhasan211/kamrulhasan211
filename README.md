@@ -19,7 +19,7 @@ I have excellent skills in HTML and CSS, along with basic JavaScript knowledge, 
 
 A platform that connects food donors with charities to reduce food waste. Features include real-time donor listings, charity matching, and impact tracking.
 
-🔗 https://kamrul.webxmastery.com/
+🔗 https://kamrul.mayajbd.com/
 
 This is an e-commerce website.
 
